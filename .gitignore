@@ -1,0 +1,6 @@
+/venv/
+/.idea/
+/.env
+/gunicorn_start
+/staticfiles/
+/src/test.py
